@@ -68,8 +68,8 @@
 <!-- The images appear after the first successful run of .github/workflows/snake.yml. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackMaksim/BlackMaksim/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/BlackMaksim/BlackMaksim/output/github-snake.svg" alt="Animated snake tracing BlackMaksim's GitHub contribution grid" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackMaksim/BlackMaksim/refs/heads/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/BlackMaksim/BlackMaksim/refs/heads/output/github-snake.svg" alt="Animated snake tracing BlackMaksim's GitHub contribution grid" />
   </picture>
 </p>
 

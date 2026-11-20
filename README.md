@@ -57,8 +57,9 @@
 
 <h2 align="center">Featured Projects</h2>
 
-| Project | What we built |
+| Project | What it does |
 | :--- | :--- |
+| **ShiftRescue** | **Personal project.** I built a Java and Spring Boot app that suggests how to fill a cancelled volunteer shift while changing as few other assignments as possible. |
 | **[NASA Aerospace Jam · Mars Payload Return](https://github.com/BlackMaksim/AerospaceJamThinkers)** | Led an eight-person team building a Mars payload return prototype with Python telemetry on a Raspberry Pi. |
 | **Lasting Impressions** | Led the team that built a WordPress e-commerce site. |
 | **[MadHacks 2026 · EdgeSentinel](https://github.com/BlackMaksim/madhacks-2026)** | Built a team prototype that simulates suspicious router activity and turns network telemetry into incident reports for review. |
